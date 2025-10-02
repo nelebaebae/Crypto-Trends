@@ -1,5 +1,9 @@
 # 📊 Bitcoin Market Cycle Analysis – Insights & Business Recommendations
-
+![Alt text](2021.png)
+![Alt text](2022.png)
+![Alt text](2023.png)
+![Alt text](2024.png)
+![Alt text](2025.png)
 ## 🔄 Executive Summary
 Bitcoin historically follows a **4-year market cycle** tied to its **halving events**. Each cycle displays similar phases:  
 - **Year 1 (post-halving):** Gradual bullish momentum (e.g., 2020, 2024).  
